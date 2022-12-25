@@ -13,8 +13,8 @@ import { useAntMedia, rtc_view } from '@antmedia/react-native-ant-media';
 import InCallManager from 'react-native-incall-manager';
 
 export default function Conference() {
-  var defaultRoomName = 'stream1';
-  const webSocketUrl = 'wss://abc.mustafa-boleken-ams-test.tech:5443/LiveApp/websocket';
+  var defaultRoomName = 'streamTest1';
+  const webSocketUrl = 'ws://server.com:5080/WebRTCAppEE/websocket';
   //or webSocketUrl: 'wss://server.com:5443/WebRTCAppEE/websocket',
 
   const [localMedia, setLocalMedia] = useState('');

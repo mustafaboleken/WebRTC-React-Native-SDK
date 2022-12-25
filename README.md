@@ -2,8 +2,8 @@
 
 ## Basic overview
 
-Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using
-WebRTC technology with ~0.5 seconds latency or low latency by using HLS or CMAF. Ant Media Server is highly scalable,
+Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using 
+WebRTC technology with ~0.5 seconds latency or low latency by using HLS or CMAF. Ant Media Server is highly scalable, 
 running on-premises or on any cloud provider of your choice.
 
 ## About React Native SDK
@@ -14,7 +14,7 @@ If you have Ant Media Server Community Edition, you can only use WebRTC publishi
 
 WebRTC play, Conference and Data Channel features are available in Ant Media Server Enterprise Edition.
 
-## Integration
+## Integration 
 
 In order to integrate React Native SDK to your project, please follow [this link](https://resources.antmedia.io/docs/react-native-sdk).
 
